@@ -1,0 +1,48 @@
+#head1 h1 {
+  color: White;
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px
+  text-align: center;
+}
+#head1 p {
+  font-family: Verdana;
+  font-size: 16px;
+  color: aquamarine;
+}
+#head1 {
+  text-align: center;
+}
+
+#head2 h1 {
+  color: White;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+#head2 p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+#camp p, h1 {
+text-align: center;
+color: White;
+}
+
+#camp, a {
+  color: aquamarine;
+  font-size: 16px;
+  font-family: Verdana;
+}
+
+body {
+  background-color: black;
+text-align: center;
+}
+.copy {
+  color: gray;
+  text-align: right;
+  font-size: 30px;
+}
